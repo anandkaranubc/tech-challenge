@@ -1,5 +1,7 @@
 # Challenge 1: Hello World
 
+DEPLOYED ON [Vercel](https://hello-world-alpha-teal.vercel.app)
+
 This is a simple “Hello World” web app built with **React**, **Vite**, and **Tailwind CSS**.  
 The goal was to set up a lightweight, modern frontend stack using current React best practices and minimal configuration.
 
