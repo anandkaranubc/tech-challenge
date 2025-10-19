@@ -28,3 +28,8 @@ A simple **Streamlit** app that connects to an **OpenAI-compatible API** to demo
 ---
 
 Built with **Streamlit** and **OpenAI API**.
+
+---
+
+**Author:** Karan Anand  
+**Date:** 19 October 2025  

@@ -57,5 +57,5 @@ You should see a simple Hello World screen with a working counter button.
 
 ---
 
-**Author:** Karan Anand \
-**Date:** October 2025
+**Author:** Karan Anand  
+**Date:** 19 October 2025  
